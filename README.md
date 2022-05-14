@@ -1,2 +1,2 @@
 # flappy-bird
-Criando o jogo flappy bird em JavaScript
+Creating the flappy bird game in javascript
