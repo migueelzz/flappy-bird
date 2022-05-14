@@ -88,10 +88,10 @@ const flappyBird = {
 }
 function loop() {
   flappyBird.atualiza();
-
   planoDeFundo.desenha();
   chao.desenha();
   flappyBird.desenha();
+
   
   
   requestAnimationFrame(loop);
